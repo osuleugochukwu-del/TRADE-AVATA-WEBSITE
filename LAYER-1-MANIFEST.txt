@@ -1,0 +1,5 @@
+TRADE AVATA LAYER 1 — FOUNDATION
+
+Contains the shared project foundation, Firebase configuration/rules, reusable components/layouts, styles, brand/assets, core data modules, and project configuration required by later layers.
+
+Expected upload destination: repository root.

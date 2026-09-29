@@ -1,0 +1,12 @@
+TRADE AVATA VERIFIED UPLOAD ORDER
+
+Upload these three ZIP files into the SAME repository root, in this order:
+1. Trade_Avata_Layer_1_FOUNDATION_VERIFIED.zip
+2. Trade_Avata_Layer_2_PUBLIC_SITE_VERIFIED.zip
+3. Trade_Avata_Layer_3_APPLICATION_BACKEND_VERIFIED.zip
+
+Do not create a Layer 1/2/3 folder in GitHub. Extract each ZIP and upload its CONTENTS to the repository root.
+Layer 2 and Layer 3 intentionally build on Layer 1. Existing files are allowed to be replaced by the later layer when the path is the same.
+After all three layers are uploaded, the repository should match Trade_Avata_COMPLETE_VERIFIED.zip.
+
+This build was statically verified for JavaScript syntax, JSON syntax, local relative imports, referenced local assets/routes that can be resolved statically, duplicate/missing package paths, and archive completeness. A full Astro/Firebase production build could not be executed in this environment because npm packages were not available locally and registry access timed out.
