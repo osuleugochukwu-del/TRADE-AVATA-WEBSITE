@@ -1,5 +1,7 @@
 TRADE AVATA LAYER 1 — FOUNDATION
 
-Contains the shared project foundation, Firebase configuration/rules, reusable components/layouts, styles, brand/assets, core data modules, and project configuration required by later layers.
+This corrected Layer 1 includes the complete foundation plus a GitHub Actions workflow.
+The workflow runs on pushes to main and on manual workflow dispatch, installs dependencies,
+builds the Astro site, uploads the dist artifact, and deploys it to GitHub Pages.
 
-Expected upload destination: repository root.
+Do not upload Layer 2 until Layer 1 produces a successful Actions run.
